@@ -53,3 +53,4 @@ Course materials: [Why do we need requirements?](https://www.coursera.org/learn/
     - Product requirements
     - organizational requirements
     - external requirements
+- [WPRSPM](https://www.coursera.org/learn/software-processes/lecture/0TFI5/wrspm)

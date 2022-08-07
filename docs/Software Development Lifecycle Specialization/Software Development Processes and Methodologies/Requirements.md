@@ -34,6 +34,7 @@ Course materials: [Why do we need requirements?](https://www.coursera.org/learn/
   - natural language for communication, but ofen not very precise
 
 - Requirements vs Specifictions
+
   - **User requirements** are exactly what the user wants the solution to do in the user’s language.
   - **System specification**: more precise or more constraining statement of how the system will meet the user requirements. It is still at the sage of what the solution will do, not how. But it is how our system will meet the user requirements.
   - Summary:
@@ -41,3 +42,14 @@ Course materials: [Why do we need requirements?](https://www.coursera.org/learn/
     - Write your requirements in the user language
     - Write your specification in the system language
     - be your that your specification meet the requirements
+
+- [None functional requirements](https://www.coursera.org/learn/software-processes/lecture/cP8No/non-functional-requirements)
+  - Def: requirements which don't specify what the system will do, but rather how the system will perform the behaviors
+  - Including:
+    - define system properties and constraints
+    - process requirements
+    - often more critical than functional requirements
+  - Three classification of none functional requirements
+    - Product requirements
+    - organizational requirements
+    - external requirements

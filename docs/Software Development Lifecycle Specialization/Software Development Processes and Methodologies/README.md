@@ -5,3 +5,4 @@
 # Week 1
 
 - [Course Orientation](./CourseOrientation.md)
+- [Requirements](./Requirements.md)

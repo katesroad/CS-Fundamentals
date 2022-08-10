@@ -53,4 +53,18 @@ Course materials: [Why do we need requirements?](https://www.coursera.org/learn/
     - Product requirements
     - organizational requirements
     - external requirements
-- [WPRSPM](https://www.coursera.org/learn/software-processes/lecture/0TFI5/wrspm)
+- [WPRSPM](https://www.coursera.org/learn/software-processes/lecture/0TFI5/wrspm):
+  - def:
+    - keywords: world, requirements, specfication, programm, machine (software host)
+    - elements: eh, ev, sv, sh (v- visible, h: element)
+  - domain:
+    - User requirements (problem domain)
+      ```bash
+      (develpers' job to transfer requirements to specifiction, there are several layers of abstraction can exisit in between)
+      ```
+    - Software specification (constraint the solution in the solution domain)
+  - it is helpful because
+    - Capture the "Right" thing, a way to figture what the requirements specification might be
+    - Helps identify the difference between requirement and specification
+  - ![wprspm](./materials/wsrpm.png)
+  - [further example](https://www.coursera.org/learn/software-processes/lecture/1wPBO/wrspm-model-real-world-example)

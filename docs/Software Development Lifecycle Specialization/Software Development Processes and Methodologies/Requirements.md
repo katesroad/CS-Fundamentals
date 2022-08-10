@@ -56,7 +56,7 @@ Course materials: [Why do we need requirements?](https://www.coursera.org/learn/
 - [WPRSPM](https://www.coursera.org/learn/software-processes/lecture/0TFI5/wrspm):
   - def:
     - keywords: world, requirements, specfication, programm, machine (software host)
-    - elements: eh, ev, sv, sh
+    - elements: eh, ev, sv, sh (v- visible, h: element)
   - domain:
     - User requirements (problem domain)
       ```bash

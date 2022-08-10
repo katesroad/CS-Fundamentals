@@ -13,3 +13,10 @@
    Answer:
    1. Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle.
    2. Repairing a bug in the requirements can cost thousands of times less than in the later phases of the software development lifecycle.
+
+## Software Arcchitecture: Defination
+
+1. Question 1: A subsystem in an architecture must:
+   - be created separately and can operate individually (microservice/frontend)
+   - have business value
+   - be integrated with one another or with exisiting subsystems

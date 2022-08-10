@@ -6,3 +6,4 @@
 
 - [Course Orientation](./CourseOrientation.md)
 - [Requirements](./Requirements.md)
+- [Software Architecture](./SoftwareArchitecture.md)

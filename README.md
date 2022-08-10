@@ -4,7 +4,8 @@
 
 - SDLC
 - Data structure and algorithms
-- Software Testing 
+- Software Testing
+- Practice (Seeking materials)
 
 ## References
 

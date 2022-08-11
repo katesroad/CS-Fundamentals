@@ -44,3 +44,18 @@
       - components
 
   - customize/adjust based on your needs
+
+- [Software Architecture: Process](https://www.coursera.org/learn/software-processes/lecture/C86cx/software-architecture-process)
+  - three major concerns
+    - system restructuring:
+      - System structuring refers to how the system is decomposed into these several principal subsystems and communications between those subsystems are then identified
+      - development team resource distribution
+    - control modeling: **Control modeling then, is how architectures create a model of the control relationships between the different parts of the system that's established**. This is particularly true when we have these separate components dealing with the flow of control, not just the interfaces but the **flow of control in communicating with each other,** but how the software will work once it's running.
+    - module decomposition:
+      - def: And then, modular decomposition is how we identify those subsystem partitions. We are particularly looking at things like simplicity.
+      - metrics: maintainablity, security, testability
+  - subsystems vs module
+    - indepdendent system holds business value
+    - component of subsystem which can not function as a standalone system
+  - Software Quality attributes
+  - ![summary](./materials/software-architecture-process-summary.png)

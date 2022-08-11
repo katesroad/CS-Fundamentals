@@ -25,3 +25,22 @@
     - helps define the build vs buy questioning and getting funding
 
 - [Software Architecture: Models](https://www.coursera.org/learn/software-processes/lecture/mVUSh/software-architecture-models)
+
+  - school thoughts models
+
+    - Pipe-and-filter
+      - (require uniform data input/out format, seen this parttern in nest.js)
+      - Scale system by scaling filter/pipes horizontally
+    - blackboard (Shared data center)
+
+      - blackboard is the one central database we can go for looking for information
+      - blackboard provides a very well defined interface that any components can use it
+      - downside: large interface, may have interfaces that are not much useful for a single component
+
+    - Layered system (needs middleware to avoid changing core layer)
+    - client-server
+    - Event based
+      - event manager
+      - components
+
+  - customize/adjust based on your needs

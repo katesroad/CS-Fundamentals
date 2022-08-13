@@ -47,4 +47,15 @@
       - invest in your employees; and employees invest in their self
     - The regular intervals, the team reflects on how to become more effective, then tunes and adjust its behaviors accordingly
 
-## Agile framework
+## Agile frameworks
+
+- [agiel frameworks](https://www.coursera.org/learn/software-processes/lecture/96g68/agile-frameworks)
+  - customize based on your own needs
+  - the key to customization is to stay true to the principles and the value of agile, and not bogged down by the rituals or practices of a specific framework.
+- [scrum](./https://www.coursera.org/learn/software-processes/lecture/9Zmvt/scrum)
+  - (Plan, build ,learn --repeat)
+  - 1 ~ 4 weeks as a sprint
+  - ![scrum vs waterfall](./materials/scrum-cycle.png)
+  - ![introduction to scrum](./materials/scrum-intro.png)
+    - Review is a meeting to get feedback about product from stakholders
+    - Retro: review the whole process

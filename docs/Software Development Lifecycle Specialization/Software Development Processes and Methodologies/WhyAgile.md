@@ -59,3 +59,10 @@
   - ![introduction to scrum](./materials/scrum-intro.png)
     - Review is a meeting to get feedback about product from stakholders
     - Retro: review the whole process
+- [lean startup](https://www.coursera.org/learn/software-processes/lecture/3Vd9H/lean-startup)
+  - what problem does this framework solve? (fast learning about user needs)
+    - **Provides a very unique approach to software development**
+    - **How can you learn faster about your market or your user needs**
+  - ![lean startup model](./materials/lean-startup-model.png)
+    - validate learning
+    - complete this cycle as quickly as possible

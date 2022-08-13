@@ -1,14 +1,15 @@
 # Why Agiel
 
+## Agiel fundamentals
+
 - [why Agiel](https://www.coursera.org/learn/software-processes/lecture/TIcBg/why-agile)
   - what led the emergence of agile
     - Problems in waterfall software development method
-      - pecies don't work together at verification(integration) phase
-      - requirements are hard to predict (**Very difficult**)
-        - Serveral problems in waterfall: ![why agiel](./materials/why-agiel.png)
-        - Interpretation problems in waterfall: ![interpretation](./materials/why-agiel-interpretation.png)
-    - Solution: **reduce the learning cycle**
-    - [agiel manifesto](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
+      - pecies don't work together at verification phase (Integration issues between different components of the software go undetected for a long time. During the testing phase, when all the components are integrated, these issues are discovered but it is very late in the process.
+
+2.  Question 2
+    ) - requirements are hard to predict (**Very difficult**) - Serveral problems in waterfall: ![why agiel](./materials/why-agiel.png) - Translation issues in waterfall: ![interpretation](./materials/why-agiel-interpretation.png) - Solution: **reduce the learning cycle** - [agiel manifesto](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
+
 - [Agile Manifesto and Principles](https://www.coursera.org/learn/software-processes/lecture/XHOt5/agile-manifesto-and-principles)
 
   - Manifesto
@@ -45,3 +46,5 @@
     - The best architectures, requirements, and designs emerge from self-organizing teams
       - invest in your employees; and employees invest in their self
     - The regular intervals, the team reflects on how to become more effective, then tunes and adjust its behaviors accordingly
+
+## Agile framework

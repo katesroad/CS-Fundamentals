@@ -4,7 +4,7 @@
 - **Requirements**:
 
   - Easy for beginers
-  - Java or Python language
+  - Java or [python](https://www.coursera.org/learn/programming-in-python/home/week/1) language
 
 - **Options**:
 
